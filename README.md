@@ -1,6 +1,6 @@
 # backtrader-backtests
 Implementations of trading strategies using the BackTrader framework for backtesting purposes.
-![screenshot](https://imgur.com/a/bnRpJGL)
+![screenshot](https://i.imgur.com/JlXJrJT.png)
 
 # Usage
 Clone or download and then play around with the strategy, change parameters (optstrategy), etc to your liking.
