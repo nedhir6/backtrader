@@ -1,5 +1,6 @@
 # backtrader-backtests
-Implementations of trading strategies using the BackTrader framework for backtesting purposes.
+## Implementations of trading strategies using the BackTrader framework for backtesting purposes.
+
 ![screenshot](https://i.imgur.com/JlXJrJT.png)
 
 # Usage
